@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Test",
+  "short_name": "test",
+  "term": "Été 2926",
+  "org": "IMSP-Programming-Club",
+  "team": {
+    "id": 18565335,
+    "slug": "classroom50-test"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18565336,
+      "slug": "classroom50-test-instructor"
+    },
+    "ta": {
+      "id": 18565339,
+      "slug": "classroom50-test-ta"
+    }
+  }
+}
