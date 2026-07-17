@@ -1,4 +1,26 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "basic",
+      "name": "Basic",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "IMSP-Programming-Club",
+        "repo": "cours-python-test0",
+        "branch": "main"
+      },
+      "description": "Un simple test pour voir ce que classroom a à offrir.",
+      "tests": [
+        {
+          "name": "validation finale",
+          "type": "python",
+          "run": "python3 -m pytest -q -v ./tests",
+          "points": 20
+        }
+      ]
+    }
+  ]
 }
