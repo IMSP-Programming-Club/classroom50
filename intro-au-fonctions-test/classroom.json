@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "intro au fonctions (test)",
+  "short_name": "intro-au-fonctions-test",
+  "term": "Ete 2026",
+  "org": "IMSP-Programming-Club",
+  "team": {
+    "id": 18587673,
+    "slug": "classroom50-intro-au-fonctions-test"
+  },
+  "teams": {
+    "teacher": {
+      "id": 18587676,
+      "slug": "classroom50-intro-au-fonctions-test-teacher"
+    },
+    "ta": {
+      "id": 18587677,
+      "slug": "classroom50-intro-au-fonctions-test-ta"
+    }
+  }
+}
