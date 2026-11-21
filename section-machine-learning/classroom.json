@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Section Machine Learning",
+  "short_name": "section-machine-learning",
+  "term": "2026-2027",
+  "org": "IMSP-Programming-Club",
+  "team": {
+    "id": 20820609,
+    "slug": "classroom50-section-machine-learning"
+  },
+  "teams": {
+    "teacher": {
+      "id": 20820610,
+      "slug": "classroom50-section-machine-learning-teacher"
+    },
+    "hta": {
+      "id": 20820611,
+      "slug": "classroom50-section-machine-learning-hta"
+    },
+    "ta": {
+      "id": 20820612,
+      "slug": "classroom50-section-machine-learning-ta"
+    }
+  }
+}
