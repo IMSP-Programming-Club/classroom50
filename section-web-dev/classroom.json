@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Section web dev",
+  "short_name": "section-web-dev",
+  "term": "2026-2027",
+  "org": "IMSP-Programming-Club",
+  "team": {
+    "id": 20820623,
+    "slug": "classroom50-section-web-dev"
+  },
+  "teams": {
+    "teacher": {
+      "id": 20820624,
+      "slug": "classroom50-section-web-dev-teacher"
+    },
+    "hta": {
+      "id": 20820625,
+      "slug": "classroom50-section-web-dev-hta"
+    },
+    "ta": {
+      "id": 20820627,
+      "slug": "classroom50-section-web-dev-ta"
+    }
+  }
+}
