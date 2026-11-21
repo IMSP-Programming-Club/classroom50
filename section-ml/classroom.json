@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Section ML",
+  "short_name": "section-ml",
+  "term": "2026-2027",
+  "org": "IMSP-Programming-Club",
+  "team": {
+    "id": 20820567,
+    "slug": "classroom50-section-ml"
+  },
+  "teams": {
+    "teacher": {
+      "id": 20820569,
+      "slug": "classroom50-section-ml-teacher"
+    },
+    "hta": {
+      "id": 20820571,
+      "slug": "classroom50-section-ml-hta"
+    },
+    "ta": {
+      "id": 20820572,
+      "slug": "classroom50-section-ml-ta"
+    }
+  }
+}
